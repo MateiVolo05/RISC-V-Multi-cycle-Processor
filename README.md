@@ -34,7 +34,3 @@ The processor implements several instruction formats from the RV32I set:
 ## 🔧 Tools used
 * **Language:** Verilog HDL
 * **Simulation & Synthesis:** Xilinx Vivado
-
-## 📈 Future Improvements
-* [ ] Implement a **Pipelined** version of the RV32I architecture to increase instruction throughput.
-* [ ] Expand exception handling to include misaligned memory access detection.
